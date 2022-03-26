@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "khoatdservicebus_SERVICEBUS": "Endpoint=sb://khoatdservicebus.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=xWabE0ONUOOElKEWcwpJWSxvDldYmhaw3jlxkQUkDHM="
+  }
+}
