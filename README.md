@@ -75,7 +75,7 @@ Complete a month cost analysis of each Azure resource to give an estimate total 
 ## Architecture Explanation
 This is a placeholder section where you can provide an explanation and reasoning for your architecture selection for both the Azure Web App and Azure Function.
 
-Scalability:  Scale the web app to up/down is great feature of Azure App service. 
-Peformance: Seperating the background tasks from main processes. The service can  be scalled. This allowed the web team and message team independently.
-Cost Efficient: By leveraging on Azure App Service Plan, we can host the Azure Web App and Azure Function App on the same service plan. This helped to reduce the overall cost of running the app to minimum.
-Availability: Azure app service is hight infra, handling peak loads with no latency.
+* Scalability:  Scale the web app to up/down is great feature of Azure App service. 
+* Peformance: Seperating the background tasks from main processes. The service can  be scalled. This allowed the web team and message team independently.
+* Cost Efficient: By leveraging on Azure App Service Plan, we can host the Azure Web App and Azure Function App on the same service plan. This helped to reduce the overall cost of running the app to minimum.
+* Availability: Azure app service is hight infra, handling peak loads with no latency.
